@@ -1,8 +1,9 @@
 {
   "name": "kohlhoffprojekte",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
+  "description": "Kohlhoffprojekte Website v1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,11 +13,12 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "lucide-react": "^0.378.0",
-    "@google/genai": "^0.1.1"
+    "@google/genai": "latest"
   },
   "devDependencies": {
     "@types/react": "^18.3.1",
     "@types/react-dom": "^18.3.1",
+    "@types/node": "^20.0.0",
     "@vitejs/plugin-react": "^4.2.1",
     "typescript": "^5.2.2",
     "vite": "^5.2.0"
