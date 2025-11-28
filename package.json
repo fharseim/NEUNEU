@@ -1,9 +1,9 @@
 {
   "name": "kohlhoffprojekte",
   "private": true,
-  "version": "1.0.1",
+  "version": "1.1.0",
   "type": "module",
-  "description": "Kohlhoffprojekte Website v1",
+  "description": "Force Update",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,7 +13,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "lucide-react": "^0.378.0",
-    "@google/genai": "latest"
+    "@google/genai": "0.1.2"
   },
   "devDependencies": {
     "@types/react": "^18.3.1",
